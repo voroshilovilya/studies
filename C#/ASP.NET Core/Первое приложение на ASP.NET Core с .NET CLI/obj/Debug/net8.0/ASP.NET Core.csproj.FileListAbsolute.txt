@@ -1,0 +1,26 @@
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\bin\Debug\net8.0\appsettings.Development.json
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\bin\Debug\net8.0\appsettings.json
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\bin\Debug\net8.0\ASP.NET Core.exe
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\bin\Debug\net8.0\ASP.NET Core.deps.json
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\bin\Debug\net8.0\ASP.NET Core.runtimeconfig.json
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\bin\Debug\net8.0\ASP.NET Core.dll
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\bin\Debug\net8.0\ASP.NET Core.pdb
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\ASP.NET Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\ASP.NET Core.AssemblyInfoInputs.cache
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\ASP.NET Core.AssemblyInfo.cs
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\ASP.NET Core.csproj.CoreCompileInputs.cache
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\ASP.NET Core.MvcApplicationPartsAssemblyInfo.cache
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\ASP.NET Core.sourcelink.json
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\staticwebassets.build.json
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\staticwebassets.development.json
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\staticwebassets\msbuild.ASP.NET Core.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\staticwebassets\msbuild.build.ASP.NET Core.props
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Core.props
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ASP.NET Core.props
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\scopedcss\bundle\ASP.NET Core.styles.css
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\ASP.NET Core.dll
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\refint\ASP.NET Core.dll
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\ASP.NET Core.pdb
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\ASP.NET Core.genruntimeconfig.cache
+C:\GitHub\studies\C#\ASP.NET Core\Первое приложение на ASP.NET Core с .NET CLI\obj\Debug\net8.0\ref\ASP.NET Core.dll
