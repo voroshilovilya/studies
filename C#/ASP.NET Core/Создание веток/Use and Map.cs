@@ -5,17 +5,17 @@ app.Map("/home", appBuilder =>
 {
     var time = DateTime.Now.ToShortTimeString();
 
-    // логгируем данные - выводим на консоль приложения
+    /// Р»РѕРіРіРёСЂСѓРµРј РґР°РЅРЅС‹Рµ - РІС‹РІРѕРґРёРј РЅР° РєРѕРЅСЃРѕР»СЊ РїСЂРёР»РѕР¶РµРЅРёСЏ
     appBuilder.Use(async (context, next) =>
     {
         var timenow = DateTime.Now.ToShortTimeString();
         Console.WriteLine($"Time: {timenow}");
-        await next();   // вызываем следующий middleware
+        await next();   // пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ middleware
     });
     
-    appBuilder.Map("/index", Index); // middleware для "/home/index"
-    appBuilder.Map("/about", About); // middleware для "/home/about"
-    // middleware для "/home"
+    appBuilder.Map("/index", Index); // middleware пїЅпїЅпїЅ "/home/index"
+    appBuilder.Map("/about", About); // middleware пїЅпїЅпїЅ "/home/about"
+    // middleware пїЅпїЅпїЅ "/home"
     appBuilder.Run(async context => await context.Response.WriteAsync($"Home Page\nTime: {time}"));
 });
 
